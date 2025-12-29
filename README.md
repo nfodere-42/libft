@@ -4,7 +4,7 @@
 ## Description
 Custom reimplementations of classic C standard library functions, developed from scratch to learn how they work internally, handle edge cases manually, and build a reliable foundation for future 42 projects.
 
-## Exercices description
+## Project files
 `src/Makefile`: Build automation file.
 
 `src/Makefile`: Build automation file.
