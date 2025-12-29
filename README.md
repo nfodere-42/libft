@@ -7,8 +7,6 @@ Custom reimplementations of classic C standard library functions, developed from
 ## Project files
 `src/Makefile`: Build automation file.
 
-`src/Makefile`: Build automation file.
-
 `src/ft_atoi.c`: Converts a string to an integer.
 
 `src/ft_bzero.c`: Sets a memory block to zero.
