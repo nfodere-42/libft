@@ -77,4 +77,4 @@ Custom reimplementations of classic C standard library functions, developed from
 
 `src/libft.h`: The header containing the definitions, declarations, and libraries.
 
-***This project has been created as part of the 42 curriculum by Néo Foderé de Frutos (nfodere-), a student at 42 Barcelona***
+***This project has been created as part of the 42 curriculum by Néo Foderé de Frutos (nfodere-), student at 42 Barcelona***
