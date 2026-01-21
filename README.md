@@ -1,5 +1,5 @@
 # Libft
-![](images/logo_libft.png)
+<img src="images/logo_libft.png" width="512" hegiht="auto">
 
 ## Description
 Custom reimplementations of classic C standard library functions, developed from scratch to learn how they work internally, handle edge cases manually, and build a reliable foundation for future 42 projects.
